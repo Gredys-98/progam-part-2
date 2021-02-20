@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\bin\Debug\netcoreapp3.1\diferentes tipos de año.exe
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\bin\Debug\netcoreapp3.1\diferentes tipos de año.deps.json
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\bin\Debug\netcoreapp3.1\diferentes tipos de año.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\bin\Debug\netcoreapp3.1\diferentes tipos de año.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\bin\Debug\netcoreapp3.1\diferentes tipos de año.dll
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\bin\Debug\netcoreapp3.1\diferentes tipos de año.pdb
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.dll
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.pdb
+C:\Users\Gredy\Desktop\tarea programas\diferentes tipos de año\obj\Debug\netcoreapp3.1\diferentes tipos de año.genruntimeconfig.cache

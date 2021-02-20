@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\bin\Debug\netcoreapp3.1\leer letra mayuscula.exe
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\bin\Debug\netcoreapp3.1\leer letra mayuscula.deps.json
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\bin\Debug\netcoreapp3.1\leer letra mayuscula.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\bin\Debug\netcoreapp3.1\leer letra mayuscula.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\bin\Debug\netcoreapp3.1\leer letra mayuscula.dll
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\bin\Debug\netcoreapp3.1\leer letra mayuscula.pdb
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.dll
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.pdb
+C:\Users\Gredy\Desktop\tarea programas\leer letra mayuscula\obj\Debug\netcoreapp3.1\leer letra mayuscula.genruntimeconfig.cache

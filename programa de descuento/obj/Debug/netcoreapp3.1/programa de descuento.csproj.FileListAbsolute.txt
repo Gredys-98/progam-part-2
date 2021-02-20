@@ -1,0 +1,13 @@
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.csprojAssemblyReference.cache
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.AssemblyInfoInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.AssemblyInfo.cs
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.csproj.CoreCompileInputs.cache
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\bin\Debug\netcoreapp3.1\programa de descuento.exe
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\bin\Debug\netcoreapp3.1\programa de descuento.deps.json
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\bin\Debug\netcoreapp3.1\programa de descuento.runtimeconfig.json
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\bin\Debug\netcoreapp3.1\programa de descuento.runtimeconfig.dev.json
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\bin\Debug\netcoreapp3.1\programa de descuento.dll
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\bin\Debug\netcoreapp3.1\programa de descuento.pdb
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.dll
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.pdb
+C:\Users\Gredy\Desktop\tarea programas\programa de descuento\obj\Debug\netcoreapp3.1\programa de descuento.genruntimeconfig.cache
